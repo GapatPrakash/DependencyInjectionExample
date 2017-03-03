@@ -1,0 +1,15 @@
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.exe.config
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.exe
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.pdb
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.csprojResolveAssemblyReference.cache
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.exe
+c:\users\gapat_p\documents\visual studio 2015\Projects\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.pdb
